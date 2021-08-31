@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES5",
-    "outDir": "out"
+    "outDir": "out",
+    "declaration": true
   },
 }
