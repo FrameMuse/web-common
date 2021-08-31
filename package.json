@@ -4,8 +4,8 @@
   "description": "",
   "main": "out/common.js",
   "exports": {
-    "./react": "./src/react.ts",
-    "./@types": "./src/@types.ts"
+    "./react": "./out/react.js",
+    "./@types": "./out/@types.d.ts"
   },
   "author": "framemuse",
   "license": "MIT"
