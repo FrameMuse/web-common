@@ -1,0 +1,12 @@
+{
+  "name": "web-common",
+  "version": "2.7.1",
+  "description": "",
+  "main": "out/common.js",
+  "exports": {
+    "./react": "./src/react.ts",
+    "./@types": "./src/@types.ts"
+  },
+  "author": "framemuse",
+  "license": "MIT"
+}
