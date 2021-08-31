@@ -1,5 +1,5 @@
 {
-  "name": "web-common",
+  "name": "kotto-web-common",
   "version": "2.7.2",
   "description": "",
   "main": "out/common.js",
