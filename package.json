@@ -3,7 +3,7 @@
   "version": "2.7.4",
   "description": "",
   "main": "out/common.js",
-  "types": "./out/@types.d.ts",
+  "types": "out/@types.d.ts",
   "exports": {
     ".": "./out/common.js",
     "./react": "./out/react.js",
