@@ -5,8 +5,7 @@
   "main": "out/common.js",
   "exports": {
     ".": "./out/common.js",
-    "./react": "./out/react.js",
-    "./@types": "./out/@types.d.ts"
+    "./react": "./out/react.js"
   },
   "author": "framemuse",
   "license": "MIT"
