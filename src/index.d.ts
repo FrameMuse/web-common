@@ -1,3 +1,7 @@
+/// <reference path="react" />
+
+export * from "./common"
+
 declare module "kotto-web-common/@types" {
   type RequiredBy<T, K extends keyof T> = Omit<T, K> & Required<Pick<T, K>>
 }
