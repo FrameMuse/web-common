@@ -1,6 +1,6 @@
 {
   "name": "kotto-web-common",
-  "version": "2.9.3",
+  "version": "2.9.4",
   "description": "",
   "main": "out/common.js",
   "types": "src/index.d.ts",
