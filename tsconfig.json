@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "ES5",
     "outDir": "out",
-    "declaration": true
+    "declaration": true,
+    "module": "ESNext"
   },
 }

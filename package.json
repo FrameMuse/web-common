@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "kotto-web-common",
   "version": "2.9.1",
   "description": "",
