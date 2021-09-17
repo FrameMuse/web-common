@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "kotto-web-common",
-  "version": "2.9.1",
+  "version": "2.9.2",
   "description": "",
   "main": "out/common.js",
   "types": "src/index.d.ts",
